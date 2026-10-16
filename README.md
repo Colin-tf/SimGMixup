@@ -1,2 +1,22 @@
-# SimGMixup
-[TGINA] Official implementation of paper "SIMGMIXUP: A Simple Graph Mixup Framework for Node Classification".
+# SimGMixup: ASimple GraphMixup Framework for Node Classication
+
+#### Installation
+
+```
+pip install -r requirements.txt
+```
+
+
+
+#### Scripts
+
+```bash
+python run_node_task.py 
+```
+
+
+
+
+
+
+
